@@ -1,0 +1,43 @@
+---
+layout: index.html 
+---
+<article class="about">
+    <h1 class="hidden">About</h1>
+
+    {{ content }}
+    
+    <div class="colophon">
+        <p>Dancing Star Press is managed and edited by Henry Weikel and Daniel Ortiz</p>
+        Logo and book design by Lauren Graycar</p>
+        <p>Web design by William Pan</p>
+        <p>Beneath the Riviera, California</p>
+    </div>
+    
+    <div class="email-list">
+        <p>Sign up for our email list</p>
+        <form
+        action="https://buttondown.com/api/emails/embed-subscribe/dancingstarpress"
+        method="post"
+        target="popupwindow"
+        onsubmit="window.open('https://buttondown.com/dancingstarpress', 'popupwindow')"
+        class="embeddable-buttondown-form"
+        >
+        
+        <input type="email" name="email" id="bd-email" />
+        <input type="submit" value="Subscribe" />
+        </form>
+    </div>
+</article>
+
+<div class="portal">
+    <img id="portal-image" />
+    <div id="portal-image-caption"></div>
+</div>
+
+<script>
+    let images = {{ images | json }}; 
+    let image = images[Math.floor(Math.random() * images.length)]; 
+    let elem = document.querySelector('#portal-image'); 
+    elem.src = `/images/stars/${image.filename}`; 
+    document.querySelector('#portal-image-caption').innerHTML = image.caption; 
+</script>

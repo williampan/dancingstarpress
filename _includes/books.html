@@ -1,0 +1,24 @@
+---
+layout: index.html
+---
+
+<div class="book-container">
+    <div class="book-image">
+        <picture>
+            <img src="/images/{{ image }}" alt="{{ alt }}">
+        </picture>
+    </div>
+    
+    <div class="book-description">
+        <h1>{{ title }}</h1>
+        <p class="byline">{{ byline }}</p>
+        <div class="book-details">
+            {{ details }}
+        </div>
+        <div class="button-container">
+            <a class="buy-button" href="{{buy-link}}" target="_blank">Buy {{ price }}</a>
+        </div>
+        {{ content }}
+
+    </div>
+</div>

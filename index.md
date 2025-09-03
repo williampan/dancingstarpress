@@ -20,7 +20,7 @@ Collections of Henry James’s ghost stories tend to survey examples from across
 
 This new collection instead brings together seven stories written near the end of the author’s career—some now out of print for nearly fifty years, others featuring nothing that could even be explicitly labeled supernatural. Together, they record a specific experiment: a parallel and discrete trajectory of James’s “late style”, when the author developed new effects to look back and articulate morbid fixations, to advocate certain forms of lively attention and wakefulness.
 
-Written in the same period as <i>The Turn of the Screw</i>, these stories are analyses of people haunted by sensations so unrelentingly specific—and so unlike those achieved by other authors of the ghost story—that they seem to exist just beyond the limits of language, concentrated and contorted to the point of illegibility among layers of rumor, neuroticism, and suspicion. They are not like other ghost stories you have read; they will create a subtler, rarer unease.
+Written in the same period as <i>The Turn of the Screw</i>, these stories are analyses of people haunted by sensations so unrelentingly specific that they seem to exist just beyond the limits of language, concentrated and contorted to the point of illegibility among layers of rumor, neuroticism, and suspicion. They are not like other ghost stories you have read; they will create a subtler, rarer unease.
 
 
 <p>

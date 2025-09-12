@@ -4,6 +4,7 @@ export default function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("css.css")
     eleventyConfig.addPassthroughCopy("./fonts/*")
     eleventyConfig.addPassthroughCopy("./images/**/*")
+    eleventyConfig.addPassthroughCopy("./favicon/*")
     eleventyConfig.addPassthroughCopy("./files/*")
     eleventyConfig.addWatchTarget("./");
 

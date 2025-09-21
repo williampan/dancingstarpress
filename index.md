@@ -12,10 +12,10 @@ details: >
     <p>Designed and typeset by <a href="http://kima.us/" target="_blank">Lauren Graycar</a></p>
     <p>Cover detail adapted from the baptistry vault of the church of Santo Domingo de Guzmán, Uayma, Mexico</p>
     <p><a href="/files/James_Preview.pdf" target="_blank">Read a sample here</a></p>
+    <p>Available at <a href="https://greenapplebooks.com/">Green Apple Books (San Francisco)</a>, Browser Books (San Francisco), and <a href="https://50wattsbooks.com/">50 Watts Books (Philadelphia)</a>.</p>
 buy-link: https://buy.stripe.com/3csfZh7Zj5FK4GA144
 price: $18 
 ---
-
 Collections of Henry James’s ghost stories tend to survey examples from across the author’s life, placing lighter early efforts alongside the imposing mastery of <i>The Turn of the Screw</i>. They edit by subject matter rather than style.
 
 This new collection instead brings together seven stories written near the end of the author’s career—some now out of print for nearly fifty years, others featuring nothing that could even be explicitly labeled supernatural. Together, they record a specific experiment: a parallel and discrete trajectory of James’s “late style”, when the author developed new effects to look back and articulate morbid fixations, to advocate certain forms of lively attention and wakefulness.
@@ -35,7 +35,3 @@ Written in the same period as <i>The Turn of the Screw</i>, these stories are an
     <li>The Beast in the Jungle</li>
     <li>The Jolly Corner</li>
 </ul>
-
-<p>
-    Now available at Green Apple Books in San Francisco.
-</p>

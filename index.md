@@ -12,7 +12,7 @@ details: >
     <p>Designed and typeset by <a href="http://kima.us/" target="_blank">Lauren Graycar</a></p>
     <p>Cover detail adapted from the baptistry vault of the church of Santo Domingo de Guzmán, Uayma, Mexico</p>
     <p><a href="/files/James_Preview.pdf" target="_blank">Read a sample here</a></p>
-    <p>Available at <a href="https://www.bookden.com/">The Book Den (Santa Barbara)</a>, <a href="https://greenapplebooks.com/">Green Apple Books (San Francisco)</a>, Browser Books (San Francisco), <a href="https://50wattsbooks.com/">50 Watts Books (Philadelphia)</a>, and <a href="https://maps.app.goo.gl/YRPmMQ8HXwHr4oXw6">Harvesters, 1565 (Accord, NY)</a>.</p>
+    <p>Available at <a href="https://www.bookden.com/">The Book Den (Santa Barbara)</a>, <a href="https://greenapplebooks.com/">Green Apple Books (San Francisco)</a>, Browser Books (San Francisco), <a href="https://50wattsbooks.com/">50 Watts Books (Philadelphia)</a>, <a href="https://alienatedmajestybooks.com/">Alienated Majesty Book (Austin)</a>, and <a href="https://maps.app.goo.gl/YRPmMQ8HXwHr4oXw6">Harvesters, 1565 (Accord, NY)</a>.</p>
 buy-link: https://buy.stripe.com/3csfZh7Zj5FK4GA144
 price: $18 
 ---

@@ -16,7 +16,8 @@ layout: index.html
             {{ details }}
         </div>
         <div class="button-container">
-            <a class="buy-button" href="{{buy-link}}" target="_blank">Buy {{ price }}</a>
+            <a class="buy-button" href="{{full-price-buy-link}}" target="_blank">Buy a pristine copy - {{ full-price }}</a>
+            <a class="buy-button" href="{{discount-buy-link}}" target="_blank">Buy a lightly damaged copy - {{ discount-price }}</a>
         </div>
         {{ content }}
 

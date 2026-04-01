@@ -14,8 +14,10 @@ details: >
     <p><a href="/files/James_Preview.pdf" target="_blank">Read a sample here</a></p>
     <p>Available at <a href="https://www.bookden.com/">The Book Den (Santa Barbara)</a>, <a href="https://shopupstairs.com/">Upstairs at Pierre Lafond (Santa Barbara)</a>, <a href="https://greenapplebooks.com/">Green Apple Books (San Francisco)</a>, Browser Books (San Francisco), <a href="https://50wattsbooks.com/">50 Watts Books (Philadelphia)</a>, <a href="https://alienatedmajestybooks.com/">Alienated Majesty Book (Austin)</a>, <a href="https://maps.app.goo.gl/YRPmMQ8HXwHr4oXw6">Harvesters, 1565 (Accord, NY)</a>, <a href="https://maps.app.goo.gl/YRPmMQ8HXwHr4oXw6">Shakespeare & Company (5e arrondissement, Paris)</a>, <a href="https://broadwaybookshophackney.com/">The Broadway Bookshop (London)</a>, <a href="https://burleyfisherbooks.com/">Burley Fisher (London)</a>, and <a href="https://village-books.co.uk/">Village Books (Dulwich, London)</a>.
     </p>
-buy-link: https://buy.stripe.com/3csfZh7Zj5FK4GA144
-price: $18 
+full-price-buy-link: https://buy.stripe.com/3csfZh7Zj5FK4GA144
+full-price: $18
+discount-buy-link: https://buy.stripe.com/9B68wOca8eMZfqb4i0b7y04
+discount-price: $8 
 ---
 Collections of Henry James’s ghost stories tend to survey examples from across the author’s life, placing lighter early efforts alongside the imposing mastery of <i>The Turn of the Screw</i>. They edit by subject matter rather than style.
 
